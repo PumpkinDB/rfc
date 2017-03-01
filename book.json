@@ -1,0 +1,16 @@
+{
+    "title": "PumpkinDB RFCs",
+    "gitbook": ">=3.0.0",
+    "plugins": ["coss@1.0.7", "theme-api", "fontsettings"],
+    "pluginsConfig": {
+      "theme-api": {
+         "split": true,
+         "theme": "dark"
+      },
+      "fontsettings": {
+        "theme": "white",
+        "family": "serif",
+        "size": 3
+      }
+    }
+}
